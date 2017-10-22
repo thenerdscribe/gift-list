@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "dev": "webpack-dev-server --env.dev",
-    "build": "webpack"
+    "build": "webpack",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "author": "Ryan Morton",
   "license": "ISC",
@@ -27,6 +29,7 @@
     "webpack-dev-server": "^2.5.0"
   },
   "dependencies": {
-    "babel-runtime": "^6.23.0"
+    "babel-runtime": "^6.23.0",
+    "gh-pages": "^1.0.0"
   }
 }
