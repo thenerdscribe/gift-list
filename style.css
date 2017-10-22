@@ -7,10 +7,13 @@ html, body {
 }
 
 .appContainer {
-  padding: 2rem;
+  padding: 1rem;
 }
 
 @media screen and (min-width: 50rem) {
+.appContainer {
+  padding: 2rem;
+}
 .gift-items {
   display: flex;
 }
