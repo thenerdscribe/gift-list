@@ -93,6 +93,12 @@ export default function () {
       "price": "?"
     },
     {
+    "name": "Tisel Automatic Watch",
+    "category": "Watch",
+    "notes": "Black strap",
+    "url": "http://shop2.tisellkr.cafe24.com/product/tisell-38mm-bauhaus-design-9015-automatic/30/",
+    },
+    {
       "name": "Tomb of Annihilation",
       "category": "D&D",
       "url": "https://www.amazon.com/Tomb-Annihilation-Dungeons-Dragons-Wizards/dp/0786966106/ref=sr_1_1?ie=UTF8&qid=1508690881&sr=8-1&keywords=tomb+of+annihilation",
