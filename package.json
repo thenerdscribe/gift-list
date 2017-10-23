@@ -8,6 +8,7 @@
     "build": "webpack"
   },
   "author": "Ryan Morton",
+  "repository": "https://github.com/thenerdscribe/gift-list",
   "license": "ISC",
   "devDependencies": {
     "babel-cli": "^6.26.0",
