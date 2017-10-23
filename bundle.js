@@ -22194,6 +22194,7 @@ module.exports = ReactDOMInvalidARIAHook;
     "name": "Tisel Automatic Watch",
     "category": "Watch",
     "notes": "Black strap",
+    "price": 195,
     "url": "http://shop2.tisellkr.cafe24.com/product/tisell-38mm-bauhaus-design-9015-automatic/30/"
   }, {
     "name": "Tomb of Annihilation",
