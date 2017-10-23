@@ -22170,6 +22170,32 @@ module.exports = ReactDOMInvalidARIAHook;
     "category": "Cookware",
     "price": 14.99
   }, {
+    "name": "Amazon Echo Dot",
+    "url": "https://www.amazon.com/dp/B01DFKC2SO/ref=cm_sw_r_cp_api_qnv7zbBQD2YX6",
+    "category": "Gadgets",
+    "price": 49.99
+  }, {
+    "name": "Preacher Vol. 1",
+    "url": "Preacher Book One https://www.amazon.com/dp/1401240453/ref=cm_sw_r_cp_api_3qv7zbNGW7GXK",
+    "category": "Book",
+    "price": 17
+  }, {
+    "name": "Scott Pilgrim Box Set",
+    "url": "Scott Pilgrim Bundle Volumes 1-6 https://www.amazon.com/dp/1934964581/ref=cm_sw_r_cp_api_huv7zbG9VDAX4",
+    "category": "Book",
+    "price": 32
+  }, {
+    "name": "Capsule Wardrobe Clothes",
+    "url": "https://stylegirlfriend.com/style-hack-create-mens-capsule-wardrobe/",
+    "category": "Clothes",
+    "notes": "I don't love anything in my current wardrobe. Nothing feels right. I really want to move to a modular, capsule wardrobe system for clothes. Anything would be appreciated.",
+    "price": "?"
+  }, {
+    "name": "Tisel Automatic Watch",
+    "category": "Watch",
+    "notes": "Black strap",
+    "url": "http://shop2.tisellkr.cafe24.com/product/tisell-38mm-bauhaus-design-9015-automatic/30/"
+  }, {
     "name": "Tomb of Annihilation",
     "category": "D&D",
     "url": "https://www.amazon.com/Tomb-Annihilation-Dungeons-Dragons-Wizards/dp/0786966106/ref=sr_1_1?ie=UTF8&qid=1508690881&sr=8-1&keywords=tomb+of+annihilation",
