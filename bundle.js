@@ -9635,7 +9635,6 @@ class App extends __WEBPACK_IMPORTED_MODULE_0_react__["Component"] {
         null,
         'Ryan Morton Gift List'
       ),
-      __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(About, null),
       __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_3__List__["a" /* default */], { gifts: this.state.gifts })
     );
   }
