@@ -68,6 +68,12 @@ export default function () {
       "price": 49.99
     },
     {
+      "name": "Comics for a Strange World",
+      "url": "https://www.amazon.com/gp/product/0735219885?tag=randohouseinc7986-20",
+			"category": "Book",
+			"price": 15
+    },
+    {
       "name": "Preacher Vol. 1",
       "url": "Preacher Book One https://www.amazon.com/dp/1401240453/ref=cm_sw_r_cp_api_3qv7zbNGW7GXK",
       "category": "Book",

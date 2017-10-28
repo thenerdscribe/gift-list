@@ -48,8 +48,8 @@ a {
   max-width: 20rem;
 }
 
-.gift-item:last-child {
-  margin-right: 0;
 }
 
+.about {
+  margin-bottom: 2rem;
 }
